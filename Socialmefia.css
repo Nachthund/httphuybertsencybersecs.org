@@ -1,0 +1,9 @@
+.wow {
+    margin: 5px 10px 5px 10px;
+    width: 50%;
+    height: 800px;
+    box-sizing: border-box;
+    border: 8px solid red;
+    box-shadow: 1px 1px 4px whitesmoke, 3px 6px purple, 5px 5px 8px red, 7px 7px 10px purple;
+
+}
